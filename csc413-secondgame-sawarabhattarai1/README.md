@@ -1,7 +1,7 @@
 # csc413-SecondGame
 
 ## Student Name  : Sawara Bhattarai
-## Student ID    : 918575273
+
 
 
 ## src folder is to be used to store source code only.
